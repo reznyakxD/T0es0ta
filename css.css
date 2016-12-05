@@ -1,0 +1,61 @@
+/* id */
+
+#warpRoot { 
+	width: 1280px;
+	margin: 0 auto;
+	}
+	
+#wrapHeader {
+	width:1280px;
+	height:300px;
+	border:1px solid gray;
+	margin-bottom:20px;
+	}
+
+#wrapContent {
+	width:1280px;
+	height:900px;
+	border:1px solid MidnightBlue;
+}
+
+#wrapFooter {
+	width:1280px;
+	height:200px;
+	
+}
+
+#wrapFooter {
+	width:1280px;
+	height:250px;
+}
+
+/* class */
+
+
+.mainImage {
+	background-image:url("/img/frozen_forest.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+
+	.mainImage h4 {
+		font-family: "Helvetica", Arial;
+		color: MidnightBlue;
+		font-weight: bold;
+	}
+
+	
+.mainSidebar {
+	width:480px;
+	height:880px;
+	border:1px solid aqua;
+	
+} 
+
+.mainContent {
+	width:800px;
+	height:900px;
+	border:1px solid Darkmagenta;
+	
+}
